@@ -1,2 +1,14 @@
 # worldcup-wwwmax-resource
-HTML page archive and documentation
+
+HTML 资料页存档
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
